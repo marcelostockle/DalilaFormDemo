@@ -52,10 +52,10 @@
       </h3>
       <br/>
       <h3 style="text-align: end;">Cuenta corriente: 
-        <b style="font-weight:bolder">0214266952</b>, Banco Itaú</h3>
-      <h3 style="text-align: end;">Osvaldo Stöckle</h3>
-      <h3 style="text-align: end;">Rut: 9719049-6</h3>
-      <h3 style="text-align: end;">Correo: floreriadalila@gmail.com</h3>
+        <b style="font-weight:bolder">XXXXXXXXXX</b>, Banco Itaú</h3>
+      <h3 style="text-align: end;">Marcelo Stöckle</h3>
+      <h3 style="text-align: end;">Rut: XXXXXXXX-X</h3>
+      <h3 style="text-align: end;">Correo: laughingstockperson@gmail.com</h3>
     </div>
     <h3 v-else-if="loading">Cargando...</h3>
     <FormTop
